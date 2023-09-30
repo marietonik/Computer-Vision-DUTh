@@ -28,7 +28,7 @@ Crosschecking Result (SIFT) | Crosschecking Result (SURF)
 ![Crosschecking_result_sift](https://github.com/marietonik/Computer-Vision-DUTh/assets/53263761/49a13554-9cee-4163-b9c1-c9928c60824c) | ![Crosschecking_result_surf](https://github.com/marietonik/Computer-Vision-DUTh/assets/53263761/cbe9c946-b631-4a20-8546-3bdbbd76b1b5)
 
 ## Image Classification using Bag of Visual Words Model
-* Classification of Caltech-256 Dataset.
+* Using part of Caltech-256 Dataset.
 * Training a BoV model using K-Means.
 * Classification with Support Vector Machines (One versus all).
 * Classification with K-Nearest-Neighbors.
