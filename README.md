@@ -2,8 +2,6 @@
 A repository containing all the projects assigned from the "Computer Vision" course in ECE DUTh.
 The main tool used is [OpenCV](https://opencv.org/). 
 
-Contributed as Associate Professor: @lazatsoc
-
 ## Text Division and Segmentation Project.
 * Median filter for noise removal from images.
 * Region Segmentation with dilation and closing techniques.
