@@ -12,7 +12,12 @@ Image Original Data | Resulted Image
 :-------------------------:|:-------------------------:
 ![1_original](https://github.com/marietonik/Computer-Vision-DUTh/assets/53263761/5e91d7d3-11bf-496a-8370-4fef24706e77) | ![bounding_box_colored_words](https://github.com/marietonik/Computer-Vision-DUTh/assets/53263761/13a5fc90-2a3a-4bfa-a42b-2dc722b762d8)
 
-## Image Stitching for Panoramic Photo Creations
+## Panoramic Image Stitching
+
+* Key features detection using Scale Invariant Feature Transform (SIFT) algorithm.
+* Key features detection using Speeded up Robust Feature (SURF) algorithm.
+* Cross-checking features according to Manhattan distance.
+* Homography for image transforms.
 
 Original Photos for the Panorama's creation: |
 :-------------------------:|
