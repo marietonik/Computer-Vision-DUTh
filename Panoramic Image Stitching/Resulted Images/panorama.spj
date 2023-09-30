@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stitchProject version="2.0" cameraMotion="automatic" computedCameraMotion="rotation3D" projection="perspective">
+  <viewRotation yaw="-1.2806919158481997" pitch="-0" roll="0" angleUnit="degrees" />
+  <vignetteCorrection redFactor="0" greenFactor="0" blueFactor="0" globalIntensityScale="1" />
+  <sourceImages>
+    <sourceImage filePath="C:\Users\Marietonik\Desktop\Marieta\DUTh\7th semester\vision\Εργασία_2\images_2\yard-house-01.png">
+      <radialDistortion k1="-0.0518266559" k2="-0.0199869238" k3="0.0507224537" k4="0" />
+      <cameraPose yaw="30.944576561196804" pitch="1.9094420087344675" roll="-0.25195611870335832" angleUnit="degrees" focalLength="1.961815319954046" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\Marietonik\Desktop\Marieta\DUTh\7th semester\vision\Εργασία_2\images_2\yard-house-02.png">
+      <radialDistortion k1="-0.0518266559" k2="-0.0199869238" k3="0.0507224537" k4="0" />
+      <cameraPose yaw="13.29962992329915" pitch="2.0381572529450307" roll="0.46520959360444225" angleUnit="degrees" focalLength="1.961815319954046" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\Marietonik\Desktop\Marieta\DUTh\7th semester\vision\Εργασία_2\images_2\yard-house-03.png">
+      <radialDistortion k1="-0.0518266559" k2="-0.0199869238" k3="0.0507224537" k4="0" />
+      <cameraPose yaw="-0.68938076577261875" pitch="1.7477204340124735" roll="0.03762337055218732" angleUnit="degrees" focalLength="1.961815319954046" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\Marietonik\Desktop\Marieta\DUTh\7th semester\vision\Εργασία_2\images_2\yard-house-04.png">
+      <radialDistortion k1="-0.0518266559" k2="-0.0199869238" k3="0.0507224537" k4="0" />
+      <cameraPose yaw="-14.633388260487488" pitch="1.105596946395722" roll="-0.51540952618072811" angleUnit="degrees" focalLength="1.961815319954046" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\Marietonik\Desktop\Marieta\DUTh\7th semester\vision\Εργασία_2\images_2\yard-house-05.png">
+      <radialDistortion k1="-0.0518266559" k2="-0.0199869238" k3="0.0507224537" k4="0" />
+      <cameraPose yaw="-28.635021958008224" pitch="0.51869169635751533" roll="0.25578775143596622" angleUnit="degrees" focalLength="1.961815319954046" tolerance="4" />
+    </sourceImage>
+  </sourceImages>
+</stitchProject>
