@@ -14,8 +14,9 @@ Image Original Data | Resulted Image
 
 ## Image Stitching for Panoramic Photo Creations
 
-Original Photos for the panorama's creation:
-![original_photos](https://github.com/marietonik/Computer-Vision-DUTh/assets/53263761/d2f420a2-663d-4838-90a6-5ed9a910dfe1)
+Original Photos for the Panorama's creation: |
+:-------------------------:|
+![original_photos](https://github.com/marietonik/Computer-Vision-DUTh/assets/53263761/d2f420a2-663d-4838-90a6-5ed9a910dfe1) |
 
 Crosschecking Result (SIFT) | Crosschecking Result (SURF)
 :-------------------------:|:-------------------------:
