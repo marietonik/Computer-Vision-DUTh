@@ -29,6 +29,9 @@ Crosschecking Result (SIFT) | Crosschecking Result (SURF)
 
 ## Image Classification using Bag of Visual Words Model
 * Using part of Caltech-256 Dataset.
-* Training a BoV model using K-Means.
+* Creating Histograms and Descriptors.
+* Creating Dictionaries.
+* Extraction of local features.
+* Training a BoVW model using K-Means.
 * Classification with Support Vector Machines (One versus all).
 * Classification with K-Nearest-Neighbors.
