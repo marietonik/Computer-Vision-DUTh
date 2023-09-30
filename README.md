@@ -35,3 +35,5 @@ Crosschecking Result (SIFT) | Crosschecking Result (SURF)
 * Training a BoVW model using K-Means.
 * Classification with Support Vector Machines (One versus all).
 * Classification with K-Nearest-Neighbors.
+
+Contributor: Associate Professor [Lazaros Tsochatzidis](https://github.com/lazatsoc) year 2022.
