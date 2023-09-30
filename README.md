@@ -2,7 +2,7 @@
 A repository containing all the projects assigned from the "Computer Vision" course in ECE DUTh.
 Projects' main library is [OpenCV](https://opencv.org/). 
 
-## Text Detection and Segmentation from images.
+## Text Division and Segmentation from images.
 * Median filter for noise removal from images.
 * Region Segmentation with dilation and closing techniques.
 * Design of bounding box with connected components function.
