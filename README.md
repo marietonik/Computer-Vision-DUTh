@@ -1,6 +1,6 @@
 # Computer-Vision-DUTh
 A repository containing all the projects assigned from the "Computer Vision" course in ECE DUTh.
-Projects' main tool is [OpenCV](https://opencv.org/). 
+The main tool used is [OpenCV](https://opencv.org/). 
 
 ## Text Division and Segmentation Project.
 * Median filter for noise removal from images.
@@ -26,3 +26,12 @@ Original Photos for the Panorama's creation: |
 Crosschecking Result (SIFT) | Crosschecking Result (SURF)
 :-------------------------:|:-------------------------:
 ![Crosschecking_result_sift](https://github.com/marietonik/Computer-Vision-DUTh/assets/53263761/49a13554-9cee-4163-b9c1-c9928c60824c) | ![Crosschecking_result_surf](https://github.com/marietonik/Computer-Vision-DUTh/assets/53263761/cbe9c946-b631-4a20-8546-3bdbbd76b1b5)
+
+## Image Classification using Bag of Visual Words Model
+* Using part of Caltech-256 Dataset.
+* Creating Histograms and Descriptors.
+* Creating Dictionaries.
+* Extraction of local features.
+* Training a BoVW model using K-Means.
+* Classification with Support Vector Machines (One versus all).
+* Classification with K-Nearest-Neighbors.
