@@ -3,10 +3,10 @@ A repository containing all the projects assigned from the "Computer Vision" cou
 Projects' main library is [OpenCV](https://opencv.org/). 
 
 ## Text Detection and Segmentation from images.
-* Noise filter without the use of OpenCV.
-* Region Segmentation.
-* Bounding Box Designing.
-* Word Counting.
+* Median filter for noise removal from images.
+* Region Segmentation with dilation and closing techniques.
+* Design of bounding box with connected components function.
+* Word and region counting as results.
 
 Image Original Data | Resulted Image
 :-------------------------:|:-------------------------:
