@@ -1,6 +1,6 @@
 # Computer-Vision-DUTh
 A repository containing all the projects assigned from the "Computer Vision" course in ECE DUTh.
-Projects' main library is [OpenCV](https://opencv.org/). 
+Projects' main tool is [OpenCV](https://opencv.org/). 
 
 ## Text Division and Segmentation Project.
 * Median filter for noise removal from images.
