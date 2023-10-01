@@ -37,7 +37,7 @@ Crosschecking Result (SIFT) | Crosschecking Result (SURF)
 * Classification with K-Nearest-Neighbors.
 
 ## Image Classification using Convolutional Neural Networks (CNN)
-* Using part of Caltech-256 ![Dataset](https://drive.google.com/file/d/1w1WfTNCuHY-O7z-8exhm-l6XQ4W00xZa/view?usp=drive_link).
+* Using part of Caltech-256 [Dataset](https://drive.google.com/file/d/1w1WfTNCuHY-O7z-8exhm-l6XQ4W00xZa/view?usp=drive_link).
 * Different Deep Neural Network architectures
 * Data Augmentations
 * Pre-trained architectural model, VGG.
