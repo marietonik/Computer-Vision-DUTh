@@ -28,12 +28,19 @@ Crosschecking Result (SIFT) | Crosschecking Result (SURF)
 ![Crosschecking_result_sift](https://github.com/marietonik/Computer-Vision-DUTh/assets/53263761/49a13554-9cee-4163-b9c1-c9928c60824c) | ![Crosschecking_result_surf](https://github.com/marietonik/Computer-Vision-DUTh/assets/53263761/cbe9c946-b631-4a20-8546-3bdbbd76b1b5)
 
 ## Image Classification using Bag of Visual Words Model
-* Using part of Caltech-256 Dataset.
+* Using part of [Caltech-256 Dataset](https://drive.google.com/file/d/1w1WfTNCuHY-O7z-8exhm-l6XQ4W00xZa/view?usp=drive_link).
 * Creating Histograms and Descriptors.
 * Creating Dictionaries.
 * Extraction of local features.
 * Training a BoVW model using K-Means.
 * Classification with Support Vector Machines (One versus all).
 * Classification with K-Nearest-Neighbors.
+
+## Image Classification using Convolutional Neural Networks (CNN)
+
+* Using part of Caltech-256 Dataset.
+* Different Deep Neural Network architectures
+* Data Augmentations
+* Pre-trained architectural model, VGG.
 
 Contributor: Associate Professor [Lazaros Tsochatzidis](https://github.com/lazatsoc) year 2022.
