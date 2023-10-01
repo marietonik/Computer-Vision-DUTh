@@ -36,4 +36,11 @@ Crosschecking Result (SIFT) | Crosschecking Result (SURF)
 * Classification with Support Vector Machines (One versus all).
 * Classification with K-Nearest-Neighbors.
 
+## Image Classification using Convolutional Neural Networks (CNN)
+
+* Using part of Caltech-256 Dataset.
+* Different Deep Neural Network architectures
+* Data Augmentations
+* Pre-trained architectural model, VGG.
+
 Contributor: Associate Professor [Lazaros Tsochatzidis](https://github.com/lazatsoc) year 2022.
